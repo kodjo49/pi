@@ -1,9 +1,1 @@
-https://github.com/PiSugar/PiSugar
-https://securipi.co.uk/pocketpi-is-a-portable-raspberry-pi-zero-with-a-rechargeable-battery-and-4-port-hub/
-https://gist.github.com/actuino/9548329d1bba6663a63886067af5e4cb
-https://robotzero.one/pi-zero-w-bluetooth-voice/
-https://gist.github.com/egorf/66d88056a9d703928f93
-https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d
-http://www.heidislab.com/tutorials/how-to-create-a-simple-iot-device-with-php-on-a-raspberry-pi-zero-w
-https://github.com/calcinai/phpi
-https://stackoverflow.com/questions/20470626/python-script-for-raspberrypi-to-connect-wifi-automatically
+

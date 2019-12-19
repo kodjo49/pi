@@ -1,3 +1,5 @@
+//https://www.npmjs.com/package/documentation
+
 var Splash = function (style = {}) {
     this.body = document.body;
     this.display = this.body.style.display;

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+    <title>Number Picker</title>
+</head>
+<body>
+
+<div id="nb_picker">
+</div>
+
+<div style="position: absolute;font-size: 22px;bottom: 5%;
+ width: 100%; height: 40px; background: #e0a800;
+ color: #fefefe; text-align: center; font-family: fantasy" id="selections"></div>
+
+<script src="number_picker.js"></script>
+<script>
+    let nb_p = new NumberPicker(40,3);
+    nb_p.render(document.getElementById("nb_picker"));
+
+    setInterval(function () {
+        document.getElementById("selections").innerHTML = JSON.stringify(nb_p.getSelections());
+    }, 2000);
+
+    setTimeout(function () {
+        //nb_p.reset();
+    }, 10000);
+</script>
+</body>
+</html>

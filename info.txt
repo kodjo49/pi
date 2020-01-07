@@ -21,3 +21,5 @@ https://codepen.io/aaroniker/pens/popular?cursor=ZD0xJm89MCZwPTY=
 https://codepen.io/hexagoncircle/pen/zYxzQqa
 https://codepen.io/aaroniker/pen/BayaBpV
 https://github.com/nat-davydova/password-strength
+
+https://github.com/artyshko/smd

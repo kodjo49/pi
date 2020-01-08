@@ -23,3 +23,6 @@ https://codepen.io/aaroniker/pen/BayaBpV
 https://github.com/nat-davydova/password-strength
 
 https://github.com/artyshko/smd
+
+https://github.com/softvar/secure-ls
+https://developer.chrome.com/apps/storage
